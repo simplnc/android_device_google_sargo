@@ -18,5 +18,9 @@
   {
     "repository": "GrapheneOS/hardened_malloc",
     "target_path": "external/hardened_malloc"
+  },
+  {
+    "repository": "android_packages_apps_Trust",
+    "target_path": "packages/apps/Trust"
   }
 ]
