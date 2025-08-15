@@ -2,5 +2,13 @@
   {
     "repository": "android_device_google_bonito",
     "target_path": "device/google/bonito"
+  },
+  {
+    "repository": "android_hardware_google_pixel",
+    "target_path": "hardware/google/pixel"
+  },
+  {
+    "repository": "android_hardware_google_interfaces",
+    "target_path": "hardware/google/interfaces"
   }
 ]
