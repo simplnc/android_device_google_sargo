@@ -8,15 +8,15 @@
     "target_path": "hardware/google/pixel"
   },
   {
-    "repository": "android_hardware_google_interfaces",
-    "target_path": "hardware/google/interfaces"
-  },
-  {
     "repository": "android_kernel_google_msm-4.9",
     "target_path": "kernel/google/msm-4.9"
   },
   {
-    "repository": "android_device_google_sepolicy",
-    "target_path": "device/google/sepolicy"
+    "repository": "android_packages_apps_ElmyraService",
+    "target_path": "packages/apps/ElmyraService"
+  },
+  {
+    "repository": "GrapheneOS/hardened_malloc",
+    "target_path": "external/hardened_malloc"
   }
 ]
